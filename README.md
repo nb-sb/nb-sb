@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=nb-sb)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coderfix-lab&theme=dark&layout=compact)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
