@@ -3,6 +3,8 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&theme=dark&layout=compact)
 
+![skills](https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--
