@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs" width="370px" height="240px" /> 
 </p>
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&theme=light" alt="戏人看戏's LeetCode Stats" width="500px" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&theme=light" alt="戏人看戏's LeetCode Stats" width="500px"  height="280px"  />
 </p>
 </a>
 
