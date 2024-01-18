@@ -28,7 +28,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-01-18 11:15:36](https://img.shields.io/badge/2024--01--18-11%3A15%3A36-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-01-18 11:24:29](https://img.shields.io/badge/2024--01--18-11%3A24%3A29-brightgreen?style=flat-square)|
 |[nft](https://github.com/nb-sb/nft)|基于fisco bcos区块链实现的nft数字藏品网站，用IPFS进行存储，每次交易均进行上链，实现交易不可篡改，可追溯溯源等功能|![2024-01-18 10:37:53](https://img.shields.io/badge/2024--01--18-10%3A37%3A53-brightgreen?style=flat-square)|
 |[fast-fisco-install](https://github.com/nb-sb/fast-fisco-install)|快速部署FISCO BCOS等相关环境|![2023-12-24 22:41:33](https://img.shields.io/badge/2023--12--24-22%3A41%3A33-brightgreen?style=flat-square)|
 |[fast-auth-code](https://github.com/nb-sb/fast-auth-code)|将系统快速接入验证码功能，例如接入滑动验证码，点击验证码等，过滤机器人以及一些脚本攻击|![2023-12-15 21:44:40](https://img.shields.io/badge/2023--12--15-21%3A44%3A40-brightgreen?style=flat-square)|
@@ -36,4 +36,4 @@
 
 
 
-*Last updated on: 2024-01-18 11:24:25*
+*Last updated on: 2024-01-18 17:30:01*
