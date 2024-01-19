@@ -65,7 +65,7 @@ abstract_tpl = """## Abstract
 
 <a href="#">
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&theme=light" alt="戏人看戏's LeetCode Stats" width="500px" />
+  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" width="500px" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" alt="戏人看戏's LeetCode Stats"  />
