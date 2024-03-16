@@ -29,7 +29,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-03-14 17:30:06](https://img.shields.io/badge/2024--03--14-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-03-15 17:30:06](https://img.shields.io/badge/2024--03--15-17%3A30%3A06-brightgreen?style=flat-square)|
 |[Typecho-push](https://github.com/nb-sb/Typecho-push)|将本地的markdown格式的文件复制到typecho编辑器中，本地图片也可以自动上传|![2024-01-27 23:06:46](https://img.shields.io/badge/2024--01--27-23%3A06%3A46-brightgreen?style=flat-square)|
 |[nft](https://github.com/nb-sb/nft)|基于fisco bcos区块链实现的nft数字藏品网站，用IPFS进行存储，每次交易均进行上链，实现交易不可篡改，可追溯溯源等功能|![2024-01-25 16:47:12](https://img.shields.io/badge/2024--01--25-16%3A47%3A12-brightgreen?style=flat-square)|
 |[fast-fisco-install](https://github.com/nb-sb/fast-fisco-install)|快速部署FISCO BCOS等相关环境|![2023-12-24 22:41:33](https://img.shields.io/badge/2023--12--24-22%3A41%3A33-brightgreen?style=flat-square)|
@@ -38,4 +38,4 @@
 
 
 
-*Last updated on: 2024-03-15 17:30:02*
+*Last updated on: 2024-03-16 17:30:01*
