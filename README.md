@@ -32,7 +32,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-04 17:30:06](https://img.shields.io/badge/2024--04--04-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-05 17:30:06](https://img.shields.io/badge/2024--04--05-17%3A30%3A06-brightgreen?style=flat-square)|
 |[vitepress-blog](https://github.com/nb-sb/vitepress-blog)|博客|![2024-04-03 20:51:04](https://img.shields.io/badge/2024--04--03-20%3A51%3A04-brightgreen?style=flat-square)|
 |[small-mybatis](https://github.com/nb-sb/small-mybatis)|mybatis的实现功能|![2024-04-03 14:51:59](https://img.shields.io/badge/2024--04--03-14%3A51%3A59-brightgreen?style=flat-square)|
 |[ddd-example](https://github.com/nb-sb/ddd-example)|ddd（领域驱动设计）架构例子（ddd architecture example）|![2024-03-18 19:55:13](https://img.shields.io/badge/2024--03--18-19%3A55%3A13-brightgreen?style=flat-square)|
@@ -44,4 +44,4 @@
 
 
 
-*Last updated on: 2024-04-05 17:30:02*
+*Last updated on: 2024-04-06 17:30:02*
