@@ -19,7 +19,7 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[nft](https://github.com/nb-sb/nft)|基于fisco bcos区块链实现的nft数字藏品网站，用IPFS进行存储，每次交易均进行上链，实现交易不可篡改，可追溯溯源等功能|`5⭐`|
+|[nft](https://github.com/nb-sb/nft)|基于fisco bcos区块链实现的nft数字藏品网站，用IPFS进行存储，每次交易均进行上链，实现交易不可篡改，可追溯溯源等功能|`6⭐`|
 |[small-mybatis](https://github.com/nb-sb/small-mybatis)|mybatis的实现功能|`1⭐`|
 |[ddd-example](https://github.com/nb-sb/ddd-example)|ddd（领域驱动设计）架构例子（ddd architecture example）|`0⭐`|
 |[fast-auth-code](https://github.com/nb-sb/fast-auth-code)|将系统快速接入验证码功能，例如接入滑动验证码，点击验证码等，过滤机器人以及一些脚本攻击|`0⭐`|
@@ -32,7 +32,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-09 17:30:06](https://img.shields.io/badge/2024--04--09-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-10 17:30:07](https://img.shields.io/badge/2024--04--10-17%3A30%3A07-brightgreen?style=flat-square)|
 |[vitepress-blog](https://github.com/nb-sb/vitepress-blog)|博客|![2024-04-07 15:56:53](https://img.shields.io/badge/2024--04--07-15%3A56%3A53-brightgreen?style=flat-square)|
 |[small-mybatis](https://github.com/nb-sb/small-mybatis)|mybatis的实现功能|![2024-04-07 12:06:14](https://img.shields.io/badge/2024--04--07-12%3A06%3A14-brightgreen?style=flat-square)|
 |[ddd-example](https://github.com/nb-sb/ddd-example)|ddd（领域驱动设计）架构例子（ddd architecture example）|![2024-03-18 19:55:13](https://img.shields.io/badge/2024--03--18-19%3A55%3A13-brightgreen?style=flat-square)|
@@ -44,4 +44,4 @@
 
 
 
-*Last updated on: 2024-04-10 17:30:02*
+*Last updated on: 2024-04-11 17:30:01*
