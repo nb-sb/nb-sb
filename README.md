@@ -1,16 +1,19 @@
 ## Abstract
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nb-sb&show_icons=true&hide_border=true" alt="戏人看戏's Github Stats"  width="500px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs" width="370px" height="240px" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=nb-sb&show_icons=true&hide_border=true" alt="戏人看戏's Github Stats"  width="400px"/>
 </p>
 
 <a href="#">
-<p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" width="500px" />
-</p>
+<div>
+  <span >
+    <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="200px"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs"  height="190px"  /> 
+  </span>
+</div>
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" alt="戏人看戏's LeetCode Stats"  />
 </p>
+
 
 </a>
 
@@ -32,7 +35,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-19 17:30:06](https://img.shields.io/badge/2024--04--19-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-19 23:01:31](https://img.shields.io/badge/2024--04--19-23%3A01%3A31-brightgreen?style=flat-square)|
 |[vitepress-blog](https://github.com/nb-sb/vitepress-blog)|博客|![2024-04-12 16:26:19](https://img.shields.io/badge/2024--04--12-16%3A26%3A19-brightgreen?style=flat-square)|
 |[small-mybatis](https://github.com/nb-sb/small-mybatis)|mybatis的实现功能|![2024-04-12 16:10:31](https://img.shields.io/badge/2024--04--12-16%3A10%3A31-brightgreen?style=flat-square)|
 |[ddd-example](https://github.com/nb-sb/ddd-example)|ddd（领域驱动设计）架构例子（ddd architecture example）|![2024-03-18 19:55:13](https://img.shields.io/badge/2024--03--18-19%3A55%3A13-brightgreen?style=flat-square)|
@@ -44,4 +47,4 @@
 
 
 
-*Last updated on: 2024-04-19 23:01:27*
+*Last updated on: 2024-04-19 23:04:25*
