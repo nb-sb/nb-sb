@@ -59,14 +59,14 @@ def fetcher(username: str):
 
 abstract_tpl = """## Abstract
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=nb-sb&show_icons=true&hide_border=true" alt="戏人看戏's Github Stats"  width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nb-sb&show_icons=true&hide_border=true" alt="戏人看戏's Github Stats"  width="400px" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs"  height="170px"  /> 
 </p>
 
 <a href="#">
 <div>
   <span >
-    <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="200px"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs"  height="190px"  /> 
+    <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="170px" />
   </span>
 </div>
 <p>
