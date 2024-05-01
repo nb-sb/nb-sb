@@ -36,7 +36,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-29 17:30:06](https://img.shields.io/badge/2024--04--29-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-04-30 17:30:07](https://img.shields.io/badge/2024--04--30-17%3A30%3A07-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-04-26 15:39:31](https://img.shields.io/badge/2024--04--26-15%3A39%3A31-brightgreen?style=flat-square)|
 |[ddd-java-cli](https://github.com/nb-sb/ddd-java-cli)|以一个DDD(领域驱动设计) + CQRS 模式为案例的的脚手架|![2024-04-23 16:58:25](https://img.shields.io/badge/2024--04--23-16%3A58%3A25-brightgreen?style=flat-square)|
 |[epay-sdk-example](https://github.com/nb-sb/epay-sdk-example)|epay-sdk的使用实例|![2024-04-22 09:35:04](https://img.shields.io/badge/2024--04--22-09%3A35%3A04-brightgreen?style=flat-square)|
@@ -49,4 +49,4 @@
 
 
 
-*Last updated on: 2024-04-30 17:30:02*
+*Last updated on: 2024-05-01 17:30:01*
