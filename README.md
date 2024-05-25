@@ -23,8 +23,8 @@
 |Project|Description|Stars|
 |:--|:--|:--|
 |[nft](https://github.com/nb-sb/nft)|基于fisco bcos区块链实现的nft数字藏品网站，用IPFS进行存储，每次交易均进行上链，实现交易不可篡改，可追溯溯源等功能|`6⭐`|
+|[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|`3⭐`|
 |[ddd-java-cli](https://github.com/nb-sb/ddd-java-cli)|以一个DDD(领域驱动设计) + CQRS 模式为案例的的脚手架|`2⭐`|
-|[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|`2⭐`|
 |[small-mybatis](https://github.com/nb-sb/small-mybatis)|mybatis的实现功能,从0->1手撸mybatis,渐进式开发(从简单的直到完善)|`1⭐`|
 |[ddd-example](https://github.com/nb-sb/ddd-example)|ddd（领域驱动设计）架构例子（ddd architecture example）|`0⭐`|
 |[epay-sdk-example](https://github.com/nb-sb/epay-sdk-example)|epay-sdk的使用实例|`0⭐`|
@@ -36,7 +36,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-05-23 17:30:07](https://img.shields.io/badge/2024--05--23-17%3A30%3A07-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-05-24 17:30:07](https://img.shields.io/badge/2024--05--24-17%3A30%3A07-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-05-14 10:55:36](https://img.shields.io/badge/2024--05--14-10%3A55%3A36-brightgreen?style=flat-square)|
 |[epay-sdk-example](https://github.com/nb-sb/epay-sdk-example)|epay-sdk的使用实例|![2024-05-13 00:20:10](https://img.shields.io/badge/2024--05--13-00%3A20%3A10-brightgreen?style=flat-square)|
 |[ddd-java-cli](https://github.com/nb-sb/ddd-java-cli)|以一个DDD(领域驱动设计) + CQRS 模式为案例的的脚手架|![2024-04-23 16:58:25](https://img.shields.io/badge/2024--04--23-16%3A58%3A25-brightgreen?style=flat-square)|
@@ -49,4 +49,4 @@
 
 
 
-*Last updated on: 2024-05-24 17:30:02*
+*Last updated on: 2024-05-25 17:30:02*
