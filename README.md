@@ -13,10 +13,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" alt="戏人看戏's LeetCode Stats"  />
 </p>
-
-
 </a>
 
+## Make friends 👬🏻
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" > <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 ## Top Projects
@@ -24,7 +25,7 @@
 |:--|:--|:--|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|`7⭐`|
 |[nft](https://github.com/nb-sb/nft)|基于fisco bcos区块链实现的nft数字藏品网站，用IPFS进行存储，每次交易均进行上链，实现交易不可篡改，可追溯溯源等功能|`7⭐`|
-|[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|以一个DDD(领域驱动设计) + CQRS 模式为案例的的脚手架|`2⭐`|
+|[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|Spring boot的DDD(领域驱动设计) + CQRS 的脚手架,已经上传到Maven中央仓库可以直接使用|`2⭐`|
 |[small-mybatis](https://github.com/nb-sb/small-mybatis)|mybatis的实现功能,从0->1手撸mybatis,渐进式开发(从简单的直到完善)|`1⭐`|
 |[common-front](https://github.com/nb-sb/common-front)|None|`0⭐`|
 |[ddd-example](https://github.com/nb-sb/ddd-example)|ddd（领域驱动设计）架构例子（ddd architecture example）|`0⭐`|
@@ -36,8 +37,8 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|以一个DDD(领域驱动设计) + CQRS 模式为案例的的脚手架|![2024-08-08 15:24:12](https://img.shields.io/badge/2024--08--08-15%3A24%3A12-brightgreen?style=flat-square)|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-07 17:30:06](https://img.shields.io/badge/2024--08--07-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-08 17:30:06](https://img.shields.io/badge/2024--08--08-17%3A30%3A06-brightgreen?style=flat-square)|
+|[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|Spring boot的DDD(领域驱动设计) + CQRS 的脚手架,已经上传到Maven中央仓库可以直接使用|![2024-08-08 15:24:12](https://img.shields.io/badge/2024--08--08-15%3A24%3A12-brightgreen?style=flat-square)|
 |[common-front](https://github.com/nb-sb/common-front)|None|![2024-06-22 17:35:37](https://img.shields.io/badge/2024--06--22-17%3A35%3A37-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-05-14 10:55:36](https://img.shields.io/badge/2024--05--14-10%3A55%3A36-brightgreen?style=flat-square)|
 |[epay-sdk-example](https://github.com/nb-sb/epay-sdk-example)|epay-sdk的使用实例|![2024-05-13 00:20:10](https://img.shields.io/badge/2024--05--13-00%3A20%3A10-brightgreen?style=flat-square)|
@@ -49,4 +50,4 @@
 
 
 
-*Last updated on: 2024-08-08 17:30:02*
+*Last updated on: 2024-08-09 11:12:35*
