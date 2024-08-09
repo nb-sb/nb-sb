@@ -1,13 +1,13 @@
 ## Abstract
 <p>
   <img src="https://github-readme-stats-gray-kappa.vercel.app/api?username=nb-sb&count_private=true&show_icons=true" alt="戏人看戏's Github Stats"  width="400px" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs"  height="170px"  /> 
+  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="170px" />
 </p>
 
 <a href="#">
 <div>
   <span >
-    <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="170px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs"  height="170px"  /> 
   </span>
 </div>
 <p>
@@ -37,7 +37,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-09 17:30:06](https://img.shields.io/badge/2024--08--09-17%3A30%3A06-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-09 23:37:31](https://img.shields.io/badge/2024--08--09-23%3A37%3A31-brightgreen?style=flat-square)|
 |[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|Spring boot的DDD(领域驱动设计) + CQRS 的脚手架,已经上传到Maven中央仓库可以直接使用|![2024-08-08 15:24:12](https://img.shields.io/badge/2024--08--08-15%3A24%3A12-brightgreen?style=flat-square)|
 |[common-front](https://github.com/nb-sb/common-front)|None|![2024-06-22 17:35:37](https://img.shields.io/badge/2024--06--22-17%3A35%3A37-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-05-14 10:55:36](https://img.shields.io/badge/2024--05--14-10%3A55%3A36-brightgreen?style=flat-square)|
@@ -50,4 +50,4 @@
 
 
 
-*Last updated on: 2024-08-09 23:37:26*
+*Last updated on: 2024-08-09 23:41:07*
