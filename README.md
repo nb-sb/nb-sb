@@ -1,15 +1,17 @@
 ## Abstract
+<a href="#">
 <p>
-  <img src="https://github-readme-stats-gray-kappa.vercel.app/api?username=nb-sb&count_private=true&show_icons=true" alt="戏人看戏's Github Stats"  width="400px" height="170px"/>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="170px" />
+  <img src="https://github-readme-stats-gray-kappa.vercel.app/api?username=nb-sb&count_private=true&show_icons=true" alt="戏人看戏's Github Stats"  height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=20" alt="戏人看戏's Top Langs"  height="170px"  /> 
 </p>
 
-<a href="#">
+<!-- 
 <div>
   <span >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=10" alt="戏人看戏's Top Langs"  height="170px"  /> 
+    <img src="https://stats.justsong.cn/api/leetcode/?username=nbsb&cn=true" alt="戏人看戏's LeetCode Stats" height="170px" />
   </span>
-</div>
+</div> 
+-->
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" alt="戏人看戏's LeetCode Stats"  />
 </p>
@@ -44,7 +46,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-11 11:41:01](https://img.shields.io/badge/2024--08--11-11%3A41%3A01-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-11 11:41:22](https://img.shields.io/badge/2024--08--11-11%3A41%3A22-brightgreen?style=flat-square)|
 |[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|Spring boot的DDD(领域驱动设计) + CQRS 的脚手架,已经上传到Maven中央仓库可以直接使用|![2024-08-10 16:22:38](https://img.shields.io/badge/2024--08--10-16%3A22%3A38-brightgreen?style=flat-square)|
 |[common-front](https://github.com/nb-sb/common-front)|None|![2024-06-22 17:35:37](https://img.shields.io/badge/2024--06--22-17%3A35%3A37-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-05-14 10:55:36](https://img.shields.io/badge/2024--05--14-10%3A55%3A36-brightgreen?style=flat-square)|
@@ -57,4 +59,4 @@
 
 
 
-*Last updated on: 2024-08-11 11:41:10*
+*Last updated on: 2024-08-11 11:45:18*
