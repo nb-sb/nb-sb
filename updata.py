@@ -78,12 +78,9 @@ abstract_tpl = """## Abstract
 
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
-<!-- <source media="(prefers-color-scheme: dark)" srcset="https://testingcf.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://testingcf.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://testingcf.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
-  <img alt="github-snake" src="https://testingcf.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake-dark.svg" /> -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://nb.sb/static/svg/snake-Light.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://nb.sb/static/svg/snake-Light.svg" />
-  <img alt="github-snake" src="https://nb.sb/static/svg/snake-Dark.svg" />
+  <img alt="github-snake" src="https://testingcf.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake-dark.svg" />
 </picture>
 
 ## Make friends 👬🏻
