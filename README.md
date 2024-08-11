@@ -44,7 +44,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-11 11:34:44](https://img.shields.io/badge/2024--08--11-11%3A34%3A44-brightgreen?style=flat-square)|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-11 11:41:01](https://img.shields.io/badge/2024--08--11-11%3A41%3A01-brightgreen?style=flat-square)|
 |[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|Spring boot的DDD(领域驱动设计) + CQRS 的脚手架,已经上传到Maven中央仓库可以直接使用|![2024-08-10 16:22:38](https://img.shields.io/badge/2024--08--10-16%3A22%3A38-brightgreen?style=flat-square)|
 |[common-front](https://github.com/nb-sb/common-front)|None|![2024-06-22 17:35:37](https://img.shields.io/badge/2024--06--22-17%3A35%3A37-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-05-14 10:55:36](https://img.shields.io/badge/2024--05--14-10%3A55%3A36-brightgreen?style=flat-square)|
@@ -57,4 +57,4 @@
 
 
 
-*Last updated on: 2024-08-11 11:39:31*
+*Last updated on: 2024-08-11 11:41:10*
