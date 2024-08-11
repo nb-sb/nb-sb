@@ -74,6 +74,13 @@ abstract_tpl = """## Abstract
 </p>
 </a>
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake-dark.svg" />
+</picture>
+
 ## Make friends 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" > <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>

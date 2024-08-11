@@ -15,6 +15,13 @@
 </p>
 </a>
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/nb-sb/nb-sb/snake/snake-dark.svg" />
+</picture>
+
 ## Make friends 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" > <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -37,8 +44,8 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
+|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-11 11:34:44](https://img.shields.io/badge/2024--08--11-11%3A34%3A44-brightgreen?style=flat-square)|
 |[ddd-archetype](https://github.com/nb-sb/ddd-archetype)|Spring boot的DDD(领域驱动设计) + CQRS 的脚手架,已经上传到Maven中央仓库可以直接使用|![2024-08-10 16:22:38](https://img.shields.io/badge/2024--08--10-16%3A22%3A38-brightgreen?style=flat-square)|
-|[nb-sb](https://github.com/nb-sb/nb-sb)|None|![2024-08-09 23:41:11](https://img.shields.io/badge/2024--08--09-23%3A41%3A11-brightgreen?style=flat-square)|
 |[common-front](https://github.com/nb-sb/common-front)|None|![2024-06-22 17:35:37](https://img.shields.io/badge/2024--06--22-17%3A35%3A37-brightgreen?style=flat-square)|
 |[epay-sdk](https://github.com/nb-sb/epay-sdk)|彩虹易支付、码支付 Java SDK|![2024-05-14 10:55:36](https://img.shields.io/badge/2024--05--14-10%3A55%3A36-brightgreen?style=flat-square)|
 |[epay-sdk-example](https://github.com/nb-sb/epay-sdk-example)|epay-sdk的使用实例|![2024-05-13 00:20:10](https://img.shields.io/badge/2024--05--13-00%3A20%3A10-brightgreen?style=flat-square)|
@@ -50,4 +57,4 @@
 
 
 
-*Last updated on: 2024-08-10 17:30:02*
+*Last updated on: 2024-08-11 11:39:31*
