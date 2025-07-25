@@ -60,10 +60,9 @@ def fetcher(username: str):
 abstract_tpl = """## Abstract
 <a href="#">
 <p>
-  <img src="https://github-readme-stats-gray-kappa.vercel.app/api?username=nb-sb&count_private=true&show_icons=true" alt="戏人看戏's Github Stats"  height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&layout=compact&hide_border=true&langs_count=20" alt="戏人看戏's Top Langs"  height="170px"  /> 
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nb-sb&hide_title=true&hide_border=true&show_icons=true&count_private=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" alt="戏人看戏's Github Stats"  height="137px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nb-sb&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" alt="戏人看戏's Top Langs"  height="137px"  /> 
 </p>
-
 <!-- 
 <div>
   <span >
